@@ -36,7 +36,7 @@ Aplicación Android desarrollada en **Kotlin** como parte de la **Práctica 2 - 
 
 | Onboarding | Home (parte superior) | Home (completo) |
 |:----------:|:---------------------:|:---------------:|
-| _Añade aquí la URL de tu imagen_ | _Añade aquí la URL de tu imagen_ | _Añade aquí la URL de tu imagen_ |
+| <img width="352" height="772" alt="image" src="https://i.ibb.co/4Z4vxNBn/Onboarding.png" /> | <img width="500" height="800" alt="image" src="https://i.ibb.co/TDgZygvV/Home-parte-superior.jpg" /> | <img width="352" height="772" alt="image" src="https://i.ibb.co/FbLndRqj/Home-completo.png" /> |
 
 ---
 
